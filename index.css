@@ -1,0 +1,24 @@
+
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */ 
+h1{
+    text-align:center;
+}
+
+body{
+    background-color: rgb(189, 187, 71)
+}
+
+/* 4 */
+.background1{
+    background-color: green;
+}
+
+
+/* 7 */
+table, th, td{
+    border: 1px solid black;
+}
